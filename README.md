@@ -6,3 +6,4 @@ Group 17
 name = kai 
 print("Kai")
 Just new 
+new 2 
