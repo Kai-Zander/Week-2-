@@ -7,3 +7,4 @@ name = kai
 print("Kai")
 Just new 
 new 2 
+new 3 
